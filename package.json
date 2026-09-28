@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/steerrange",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Steer and reshape range text streams with deterministic transforms.",
+  "bin": {
+    "steerrange": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/steerrange.git"
+  },
+  "homepage": "https://theworker02.github.io/steerrange/",
+  "keywords": [
+    "steer",
+    "range",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
